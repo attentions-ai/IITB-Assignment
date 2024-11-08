@@ -1,32 +1,31 @@
-# Upcoming Campus Selection Test
+# IITB Campus Selection Test
 
-We are excited that you will be participating in the upcoming test. Here’s the process:
+Welcome to the IITB Campus Selection Test! We’re excited to have you participate.
 
-### Test Process:
-1. The test question will be released on **8th November at 12:00 PM (noon)**.
-2. The question will involve **building an LLM application**.
-3. You will need to **develop the application and record a video** demonstrating its functionality.
-4. After completing the assignment, please submit a form with the following:
-   - **Video link** (hosted on Google Drive, YouTube, or another accessible platform).
-   - **GitHub link** with the code repository.
-   - **Additional details** as requested in the form.  
-   *Make sure all links are publicly accessible for evaluation purposes.*
-5. **Submission deadline** is **9th November at 6:00 PM**.
-6. **Duplicate submissions** between candidates will result in **disqualification** of both.
+## Test Process:
 
-
-### Expected Skillset:
-- **Proficiency in PyTorch**.
-- Strong understanding of **Transformers** (including basic fine-tuning and training).
-- **In-depth knowledge** of loss functions, metrics, etc.
-- Familiarity with **open-source LLMs** and their functionality.
-
-### Good to Have:
-- Ability to **architect solutions from scratch**.
-- **Proficiency with model deployment libraries** such as VLLM and TensorRT.
-- Experience in **designing new architectures** in VLLM or TensorRT.
-- **Knowledge of distributed training and inference**.
+1. **Submission Deadline**: The test submission must be completed by **9th November at 6:00 PM**.
+2. **Questions**: You will find a text file containing the questions in the **"question"** folder.
+3. **Examples**: Refer to example files located in the **"examples"** folder.
+4. **Assignment**: 
+   - Develop the application based on the given problem statement.
+   - **Screen record** the complete end-to-end process of the application in action once completed. Ensure you capture at least two different user interactions, each demonstrating their itinerary planning. Please avoid capturing any personal content in your recording.
+   - The video must include a full chat sequence demonstrating the functionality.
+5. **Submission**:
+   - Fill out the submission form with the following:
+     - **Video link** (hosted on Google Drive, YouTube, or any other accessible platform).
+     - **GitHub repository link** containing your code.
+     - Any additional details as requested in the form.
+   - **Note**: Ensure that all links are publicly accessible for evaluation purposes.
+6. **Important**: Duplicate submissions between candidates will lead to disqualification of both.  
+   *"Focus on your plate—before someone else takes your fries."*
 
 ---
 
-We wish you the best of luck in your preparation and look forward to your participation!
+**[Submission Form Link](https://forms.gle/Gb22o7QSuGFTJ5TB9)**
+
+---
+
+We wish you all the best for solving this problem. We hope you enjoy the process, learn something new, and, of course, have fun coding!
+
+*May the Force be with you.*
